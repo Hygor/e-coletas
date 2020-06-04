@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Hygor/e-coletas.web
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Hygor/e-coletas.mobile
